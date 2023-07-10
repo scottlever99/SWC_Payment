@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hfsiYIseq8RMYXySRmZQIqjWI2CO7NqITru1s1NTRN0=",
+  "Hash": "nUhB1BHTvyA3Bszjf8uhoVWbw9mhePLyh0r5Y0uiyMI=",
   "Source": "SWC_Payment_Website",
   "BasePath": "_content/SWC_Payment_Website",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Work\\Source Control\\Test Projects\\SWC_Payment_Website\\SWC_Payment_Website\\wwwroot\\newico.ico",
+      "SourceId": "SWC_Payment_Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Source Control\\Test Projects\\SWC_Payment_Website\\SWC_Payment_Website\\wwwroot\\",
+      "BasePath": "_content/SWC_Payment_Website",
+      "RelativePath": "newico.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\newico.ico"
     }
   ]
 }
