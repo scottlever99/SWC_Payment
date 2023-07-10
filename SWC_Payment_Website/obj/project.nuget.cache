@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nm6oc17zBJv+IS6Rsm7788dACrbmXZDUveBtmOOTiMbcYfq6WBSD5vtGbZug9XwP6jsGkNhcIO4TtYBQPTGUOg==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Source Control\\Test Projects\\SWC_Payment_Website\\SWC_Payment_Website\\SWC_Payment_Website.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scottl\\.nuget\\packages\\azure.communication.email\\1.0.0\\azure.communication.email.1.0.0.nupkg.sha512",
+    "C:\\Users\\scottl\\.nuget\\packages\\azure.core\\1.30.0\\azure.core.1.30.0.nupkg.sha512",
+    "C:\\Users\\scottl\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\scottl\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\scottl\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\scottl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\scottl\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\scottl\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\scottl\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

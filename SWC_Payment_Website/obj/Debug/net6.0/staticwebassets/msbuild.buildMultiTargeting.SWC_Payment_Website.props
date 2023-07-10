@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SWC_Payment_Website.props" />
+</Project>

@@ -1,0 +1,74 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    /*margin-bottom: 60px;*/
+}
+
+.header-image-1 {
+    background-image: url('../images/alberta-2297204-crop.jpg');
+    background-size: cover;
+    height: 350px;
+    margin-bottom: 30px;
+}
+
+.sans {
+    font-weight: 400;
+    font-family: 'DM Sans',sans-serif;
+}
+
+.forum {
+    font-family: 'Forum', display;
+    font-weight: 400;
+}
+
+.my-input{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-width: 1px;
+    padding: 10px;
+    margin-bottom: 30px;
+    width: 100%;
+    border-color: lightgrey;
+}
+.my-input:focus{
+    outline: none;
+    border-color: #30C7B5;
+}
+
+.my-button {
+    padding: 11px 34px;
+    font-size: 15px;
+    border: 1px solid;
+    background-color: #30C7B5;
+    border-color: #30C7B5;
+    color: #14261C;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-bottom-width: 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+    .my-button:hover {
+        background-color: #2AA899;
+    }
+
+@media (min-width: 768px){
+    .cont-width{
+        max-width: 720px;
+    }
+}
